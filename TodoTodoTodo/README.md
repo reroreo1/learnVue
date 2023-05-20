@@ -1,4 +1,4 @@
-# ft_tr
+# learning to use Vue.js
 
 > A Vue.js project
 
